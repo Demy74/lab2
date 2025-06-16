@@ -17,27 +17,4 @@
 9. сделать вывод относительно разработанных архитектур;
 10. подготовка отчета, содержащего минимальный объем информации по каждому этапу выполнения работы.
 
-
-**Часть 1. Загрузка необходимых библиотек**
-
-```import numpy as np
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import os
-from PIL import Image
-import random
-from sklearn.model_selection import train_test_split
-import plotly.graph_objs as go
-import plotly.offline as pyo
-import gc
-
-# Библиотека TensorFlow
-import tensorflow as tf
-from tensorflow.keras import layers, models
-from tensorflow.keras.optimizers import SGD, Adam
-from tensorflow.keras.losses import SparseCategoricalCrossentropy
-from tensorflow.keras.datasets import mnist, cifar10
-from tensorflow.keras.utils import to_categorical
-from tensorflow.data import Dataset
-import tensorflow.keras.preprocessing.image as tf_image
+Код [ссылка]()
