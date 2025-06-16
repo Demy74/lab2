@@ -21,8 +21,11 @@
 
 Отчет [ссылка](Отчет_Лаб2.docx) 
 
-В работе использован набор данных для классификации [ссылка] (https://www.kaggle.com/datasets/carlosrunner/pizza-not-pizza/data), в котором содержатся изображения есди, разбитые на 2 папки (pizza и not_pizza). 
+В работе использован набор данных для классификации [ссылка] (https://www.kaggle.com/datasets/carlosrunner/pizza-not-pizza/data), в котором содержатся изображения есди, разбитые на 2 папки (pizza и not_pizza); в каждой папке 983 файла.
 
 ![pizza_not_pizza](pizza_not_pizza.jpg)
+
+Были разработаны 3 нейросети, согласно заданию. Результаты работы представлены в табице ниже:
+![image](https://github.com/user-attachments/assets/62acb518-8c6a-4b96-a34b-3665f4f8f5fe)
 
 
