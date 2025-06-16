@@ -22,6 +22,7 @@
 Отчет [ссылка](Отчет_Лаб2.docx) 
 
 В работе использован набор данных для классификации [ссылка] (https://www.kaggle.com/datasets/carlosrunner/pizza-not-pizza/data), в котором содержатся изображения есди, разбитые на 2 папки (pizza и not_pizza). 
-!pizza_not_pizza.jpg
+
+![pizza_not_pizza](pizza_not_pizza.jpg)
 
 
